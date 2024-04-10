@@ -1,0 +1,1 @@
+// a - Ler dois valores numéricos inteiros e apresentar o resultado da diferença do maior pelo menor valor.
